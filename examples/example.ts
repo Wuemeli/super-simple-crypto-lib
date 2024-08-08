@@ -1,6 +1,6 @@
 import { encrypt, decrypt } from 'super-simple-crypto-lib'; 
 
-const secretKey = 'a very strong secret key';
+const secretKey = 'avery strongsecret key';
 const algorithm = 'aes-256-cbc';
 
 const plaintext = 'Hello, World! This is a test message.';

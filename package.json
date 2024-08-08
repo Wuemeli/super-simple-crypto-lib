@@ -26,6 +26,6 @@
     "typescript"
   ],
   "dependencies": {
-    "super-simple-crypto-lib": "latest"
+    "crypto": "^1.0.1"
   }
 }
