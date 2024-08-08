@@ -1,0 +1,31 @@
+{
+  "name": "super-simple-crypto-lib",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wuemeli"
+  },
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wuemeli/super-simple-crypto-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wuemeli/super-simple-crypto-lib/issues"
+  },
+  "keywords": [
+    "crypto",
+    "simple",
+    "typescript"
+  ],
+  "dependencies": {
+    "super-simple-crypto-lib": "latest"
+  }
+}
